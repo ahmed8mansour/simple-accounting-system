@@ -2,7 +2,7 @@
 
 ## A fully functional system to manage a simple accounting system
 
-This project . Every part of this project is sample code which imporve the accounting system by :
+This project . Every part of this project is sample code which imporves the accounting system by :
 
 - Create invocie sheet for the customer , witch will be sizeable for all printers types
 - Create a simple design for the accountants to manage and add customers needs 
@@ -13,7 +13,11 @@ This project . Every part of this project is sample code which imporve the accou
 ![main_page](https://github.com/ahmed8mansour/simple-accounting-system/assets/108304589/85dd8ef2-c48d-4184-a37d-dad593bf76b5)
 ![second_page](https://github.com/ahmed8mansour/simple-accounting-system/assets/108304589/9d08ff1e-0c08-437d-a718-538d4cf35f43)
 
-
+## the info : 
+- level : very simple
+- language : C# , windowsformapplication
+- personal status when this project was created : junior
+- time : `5 /3 /2021`
 
 ## How to tweak this project for your own uses
 
