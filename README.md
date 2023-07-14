@@ -21,7 +21,9 @@ Since this is an example project, I'd encourage you to clone and rename this pro
 
 ## Find a bug?
 
-If you found an issue or would like to submit an improvement to this project, please submit an issue by texting me on twitter or facebook
+If you found an issue or would like to submit an improvement to this project, please submit an issue by :
+* using issues area in git hub repo
+* texting me on twitter or facebook
 
 ## Like this project?
 
