@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\invoice\invoice\bin\Debug\invoice.exe.config
+C:\Users\hp\source\repos\invoice\invoice\bin\Debug\invoice.exe
+C:\Users\hp\source\repos\invoice\invoice\bin\Debug\invoice.pdb
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.Form1.resources
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.Properties.Resources.resources
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.exe
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.pdb
+C:\Users\hp\source\repos\invoice\invoice\obj\Debug\invoice.csproj.AssemblyReference.cache
